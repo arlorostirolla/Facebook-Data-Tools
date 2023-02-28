@@ -7,4 +7,7 @@ To retrieve your data:
   - Format 'JSON', data quality 'high', date range 'all time'
   - Tick 'Messages', 'Comments and reactions', 'Stories', 'Groups', 'Friends and Followers'
   - Click request a download
-  - After a day or two, your download will be available, download and unzip to the local directory
+  - After a day or two, your download will be available, download and unzip each archive to a seperate folder. 
+  - create a folder called 'data' in the root directory and place each folder into it
+  
+ 
