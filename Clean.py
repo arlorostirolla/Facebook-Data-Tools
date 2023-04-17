@@ -109,6 +109,6 @@ def analyse_time_to_reply(data, person, average=100):
 if __name__ == "__main__":
     #parse("Arlo Rostirolla")
     #clean()
-    data = pd.read_csv("./per_person/Maslin Armitage.csv")
+    data = pd.read_csv("./per_person/_______.csv")
     #plotSentimentOverTime(data, average=300)
-    analyse_time_to_reply(data, "Arlo Rostirolla")
+    analyse_time_to_reply(data, "__________")
